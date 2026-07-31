@@ -1,0 +1,15 @@
+# Executables
+*.exe
+*.out
+*.o
+*.obj
+
+# VS Code
+.vscode/
+
+# Build folders
+build/
+bin/
+
+# History generated while running
+history.txt
